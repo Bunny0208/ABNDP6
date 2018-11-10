@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ABNDP6</string>
+    <string name="near_the">Near the</string>
+    <string name="no_news">No news articles found.</string>
+    <string name="no_internet_connection">No internet connection.</string>
+    <string name="primary_location">News headline and the most basic details</string>
+    <string name="article_text">1</string>
+    <string name="date">Mar 6, 2010</string>
+    <string name="author">by author</string>
+</resources>
